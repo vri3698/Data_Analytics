@@ -1,8 +1,8 @@
 # Data Analytics and Visualization
-Data Analytics Coursework and Projects
+Data Analytics Work and Projects
 
 ## Overview
-This Git repository serves as a comprehensive summary of Data Analytics and Visualization. The focus is on the technical skills acquired, case studies, assignments, and key lessons learned. The repository aims to provide a consolidated reference for personal review and showcase the proficiency gained in data analysis and visualization using Python.
+This Git repository serves as a comprehensive summary of projects and work in Data Analytics and Visualization. The focus is on the technical skills acquired, case studies, assignments, and key lessons learned. The repository aims to provide a consolidated reference for personal review and showcase the proficiency gained in data analysis and visualization using **Python.**
 
 ### Purpose
 The course aimed to gain practical knowledge of using Python for extracting insights from data. It covered a wide array of topics, including Python basics, web scraping, data cleaning, machine learning, deep learning, text mining, and network analysis.
@@ -14,27 +14,16 @@ The course aimed to gain practical knowledge of using Python for extracting insi
 - Machine learning concepts (regression, decision trees, clustering, deep learning)
 - Text mining and analysis of networks using LSI
 - Data visualization using Python
-
-## Repository Content
-
-### Assignments
-1. **Getting_Data:** Introduction to Python and data acquisition.
-2. **Intro_to_ML:** Introduction to machine learning concepts.
-3. **Intro_to_Python:** Advanced Python programming and concepts.
-4. **Networks:** Network analysis using Python.
-5. **Numpy:** Practical exercises and applications of the Numpy library.
-6. **Pandas:** Data analysis using the Pandas library.
-7. **Rent Prediction Using Python:** Project involving web scraping, ETL, regression analysis, and machine learning on NYC rental data.
-8. **Text_Mining:** Application of text mining techniques.
-9. **Visualization:** Data visualization using Python.
-
+  
 ### Project
 **Rent Prediction Analysis | Data Analytics and Data Visualization in Python (Nov 2022):**
 - Conducted web scraping, ETL, and regression analyses on NYC rental data.
 - Removed outliers, evaluated trends, and visualized data.
 - Developed a machine learning model with 90% accuracy in rent prediction.
+  
+## Repository Content:
 
-#### Course Highlights
+#### Highlights
 1. **Python Proficiency:** Acquired a strong command of Python for data analytics.
 2. **Web Scraping and ETL:** Applied web scraping techniques and conducted Extract, Transform, Load (ETL) processes.
 3. **Machine Learning and Deep Learning:** Explored regression, decision trees, clustering, and deep learning concepts.
