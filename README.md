@@ -2,9 +2,7 @@
 Data Analytics Coursework and Projects
 
 ## Overview
-This Git repository serves as a comprehensive summary of the Data Analytics and Visualization course. The focus is on the technical skills acquired, case studies, assignments, and key lessons learned during the course. The repository aims to provide a consolidated reference for personal review and showcase the proficiency gained in data analysis and visualization using Python.
-
-## Course Description
+This Git repository serves as a comprehensive summary of Data Analytics and Visualization. The focus is on the technical skills acquired, case studies, assignments, and key lessons learned. The repository aims to provide a consolidated reference for personal review and showcase the proficiency gained in data analysis and visualization using Python.
 
 ### Purpose
 The course aimed to gain practical knowledge of using Python for extracting insights from data. It covered a wide array of topics, including Python basics, web scraping, data cleaning, machine learning, deep learning, text mining, and network analysis.
@@ -44,13 +42,11 @@ The course aimed to gain practical knowledge of using Python for extracting insi
 5. **Data Visualization:** Utilized libraries like Matplotlib and Seaborn for effective data visualization.
 
 ## Key Lessons
-
 1. **Practical Application:** Emphasis on hands-on experience with real-world datasets.
 2. **Project Management:** Successfully executed a comprehensive project from data acquisition to model development.
 3. **Technical Tools Mastery:** Proficient use of Python libraries for data manipulation, analysis, and visualization.
 
 ## Conclusions
-
 The Data Analytics and Visualization course provided a deep dive into practical applications of Python for data-related tasks. This repository stands as evidence of the technical skills gained, showcasing the ability to extract valuable insights from diverse datasets and present findings through effective data visualization.
 
 ### ReadMe Document
