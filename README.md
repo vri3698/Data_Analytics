@@ -1,4 +1,4 @@
-# Data_Analytics and Visualization
+# Data Analytics and Visualization
 Data Analytics Coursework and Projects
 
 ## Overview
@@ -11,7 +11,7 @@ The course aimed to gain practical knowledge of using Python for extracting insi
 
 ### Technical Skills Emphasized
 - Python programming for data analysis
-- Web scraping techniques using BeautifulSoup
+- Web scraping techniques using BeautifulSoup, Google API
 - Use of libraries such as Numpy, Pandas, Scikit-learn, and NLTK
 - Machine learning concepts (regression, decision trees, clustering, deep learning)
 - Text mining and analysis of networks using LSI
