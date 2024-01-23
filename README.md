@@ -11,10 +11,10 @@ The course aimed to gain practical knowledge of using Python for extracting insi
 
 ### Technical Skills Emphasized
 - Python programming for data analysis
-- Web scraping techniques
+- Web scraping techniques using BeautifulSoup
 - Use of libraries such as Numpy, Pandas, Scikit-learn, and NLTK
 - Machine learning concepts (regression, decision trees, clustering, deep learning)
-- Text mining and analysis of networks
+- Text mining and analysis of networks using LSI
 - Data visualization using Python
 
 ## Repository Content
@@ -36,11 +36,6 @@ The course aimed to gain practical knowledge of using Python for extracting insi
 - Removed outliers, evaluated trends, and visualized data.
 - Developed a machine learning model with 90% accuracy in rent prediction.
 
-### ReadMe Document
-
-#### Purpose
-This repository serves as a personal review and showcase of the technical skills and knowledge gained during the Data Analytics and Visualization course. It focuses on practical applications, case studies, and assignments.
-
 #### Course Highlights
 1. **Python Proficiency:** Acquired a strong command of Python for data analytics.
 2. **Web Scraping and ETL:** Applied web scraping techniques and conducted Extract, Transform, Load (ETL) processes.
@@ -57,3 +52,5 @@ This repository serves as a personal review and showcase of the technical skills
 ## Conclusions
 
 The Data Analytics and Visualization course provided a deep dive into practical applications of Python for data-related tasks. This repository stands as evidence of the technical skills gained, showcasing the ability to extract valuable insights from diverse datasets and present findings through effective data visualization.
+
+### ReadMe Document
