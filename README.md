@@ -7,7 +7,7 @@ This Git repository serves as a comprehensive summary of the Data Analytics and 
 ## Course Description
 
 ### Purpose
-The course aimed to equip students with practical knowledge of using Python for extracting insights from data. It covered a wide array of topics, including Python basics, web scraping, data cleaning, machine learning, deep learning, text mining, and network analysis.
+The course aimed to gain practical knowledge of using Python for extracting insights from data. It covered a wide array of topics, including Python basics, web scraping, data cleaning, machine learning, deep learning, text mining, and network analysis.
 
 ### Technical Skills Emphasized
 - Python programming for data analysis
